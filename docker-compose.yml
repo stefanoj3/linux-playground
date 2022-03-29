@@ -1,0 +1,5 @@
+version: "3"
+services:
+  linux:
+    image: ubuntu:22.04
+    command: sleep 9000000000
